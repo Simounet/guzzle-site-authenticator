@@ -1,5 +1,7 @@
 <?php
 
+namespace BD\GuzzleSiteAuthenticator\ExpressionLanguage;
+
 use Exception;
 use GuzzleHttp\ClientInterface;
 use Symfony\Component\ExpressionLanguage\ExpressionFunction;
